@@ -1,0 +1,14 @@
+[Activity]
+
+name = SunMoonMusic
+
+bundle_id = org.laptop.SunMoonMusic
+icon = activity-sunmoonmusic
+
+activity_version = 2
+
+host_version = 1
+
+show_launcher = yes
+exec = sugar-activity sunmoonmusic.SunMoonMusic
+license = CC-by-SA 3.0

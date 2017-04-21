@@ -1,0 +1,7 @@
+setup.py
+SunMusic.csd
+MoonMusic.csd
+activity/activity.info
+activity/activity-sunmoonmusic.svg
+csndsugui.py
+sunmoonmusic.py
